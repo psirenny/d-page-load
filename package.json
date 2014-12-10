@@ -1,0 +1,25 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/d-page-load/issues"
+  },
+  "description": "A Derby JS component to indicate page loads.",
+  "keywords": [
+    "component",
+    "derby",
+    "load",
+    "page"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "d-page-load",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/d-page-load.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
